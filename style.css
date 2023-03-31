@@ -144,3 +144,14 @@ h1 {
     min-width: 196px;
   }
 }
+
+.check-result {
+  text-align: center;
+  font-family: "Baloo 2", cursive;
+  font-size: 50px;
+  font-weight: 600;
+  color: #ffffff;
+  text-shadow: 2px 7px 5px rgba(35, 32, 32, 0.3),
+    0px -4px 10px rgba(32, 28, 28, 0.3);
+  letter-spacing: 0.1em;
+}
